@@ -68,4 +68,4 @@ This project is licensed under the **MIT License**.
 
 ## 🌍 Connect with Me
 📌 **GitHub:** [KunalJadhao](https://github.com/KunalJadhao)  
-📌 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/KunalJadhao)
+📌 **LinkedIn:** www.linkedin.com/in/kunaljadhav07
